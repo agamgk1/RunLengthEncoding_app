@@ -1,4 +1,4 @@
-Simple application showing the operation of the RRun Length Encoding algorithm
+Simple application showing the operation of the Run Length Encoding algorithm
 
 Technologies:
 - Java 8
